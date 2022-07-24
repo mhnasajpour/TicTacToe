@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Logo">
+        <file>logo_black.png</file>
+        <file>tic-tac-toe.png</file>
+    </qresource>
+    <qresource prefix="/shape">
+        <file>1.png</file>
+        <file>2.png</file>
+    </qresource>
+    <qresource prefix="/winlose">
+        <file>equality.png</file>
+        <file>success.png</file>
+    </qresource>
+</RCC>
